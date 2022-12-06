@@ -1,3 +1,8 @@
+---
+permalink: /impro/
+title: "L’Impro"
+---
+
 # L’impro
 Quand le théâtre devient un sport…
 L’histoire remonte aux années 1980.
