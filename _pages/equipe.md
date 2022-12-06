@@ -1,3 +1,8 @@
+---
+permalink: /equipe/
+title: "L’Équipe chablaisienne"
+---
+
 # L’Équipe chablaisienne
 
 ## Les joueurs 2016-2017 :
