@@ -1,3 +1,8 @@
+---
+permalink: /cia/
+title: "La C.I.A"
+---
+
 # La C.I.A. : qu’est-ce que c’est ?
 
 ## Reportage Vidéo sur lACIA
