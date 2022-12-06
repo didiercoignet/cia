@@ -1,3 +1,8 @@
+---
+permalink: /cours/
+title: "Les Cours"
+---
+
 # Les Cours
 
 ## Quand ? Où ? Comment ?…
