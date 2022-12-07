@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
+  - title: "News"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "La C.I.A"
+    url: /cia/
+  - title: "Les Cours"
+    url: /cours/
+  - title: "L’Équipe chablaisienne"
+    url: /equipe/
+  - title: "L’Impro"
+    url: /impro/
+  - title: "Partenaires"
+    url: /partenaires/
+  - title: "contact"
+    url: /Contact/
